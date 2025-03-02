@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-59:/layout/fragment_movie_search.xml",
+        "source": "com.example.myapplication.app-main-62:/layout/fragment_movie_search.xml"
+    }
+]
